@@ -2,13 +2,20 @@
 
 Scripts and libraries for forex trading with Metatrader 4
 
+## Motivation
+
+I want my code to persist and been available to anyone willing to help improving it
+
 ## Code Example
 
 blablablablablablablablablabla
 
-## Motivation
+## Conventions
 
-I want my code to persist and been available to anyone willing to help improving it
+I use the following filename rules:
+- for Exper Advisor the prefix is ea_
+- for Scripts the prefix is s_
+- for indicators the prefix is i_
 
 ## Installation
 
